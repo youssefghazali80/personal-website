@@ -1,0 +1,159 @@
+.Hero{
+    background-image: url('./images/background-2.jpeg') ;
+    width: 100vw;
+    height: 100vh;
+}
+.text-holder{
+    width: 65%;
+    margin: auto;
+
+}
+h2{
+    font-family:serif ;
+    font-weight: 600;
+    font-size: 3cqw;
+}
+.name ,.job ,.intro{
+    font-family: sans-serif;
+    font-size: 4.5cqw;
+}
+
+
+
+.name{
+    color: transparent; /* Make the text color transparent */
+    -webkit-text-stroke: 0.2rem #deaa84; /* Outline width and color */
+    font-size: 5cqw;
+}
+.job{
+    color: #deaa84;
+    background-color:#4d2508 ;
+    border-radius: 10%;
+}
+
+.header{
+    height: 15vh;
+    background-color: #E7D5C9;
+    width: 100%;
+}
+h1{
+    font-size: 4cqw;
+    font-family:serif ;
+    font-weight: 600;
+}
+.Hi{
+    font-size: 6cqw;
+}
+h3{
+    font-size: 2cqw;
+    font-family: sans-serif ;
+    font-weight: 700;
+}
+.skill{
+    color:#E7D5C9;
+    font-size: 2cqw;
+}
+.side-bar{
+    background-color:#E7D5C9 ;
+    margin: auto;
+    height: auto;
+    border-radius: 200px;
+    padding-bottom: 20px;
+    width: 10%;
+    
+}
+.half{
+    height: 50vh;
+}
+#personal-photo{
+    margin-top: 10%;
+    height: 70vh;
+    border-radius: 20%;
+    border: 15px solid black;
+   
+    
+    
+
+   
+}
+.right-half-portfolio{
+    margin-top: 15%;
+}
+
+
+.image-frame{
+    width: 40%;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%
+
+}
+.websites{
+    margin-top:;
+    height: 35vh;
+    border: 10px solid black;
+    border-radius: 10%;
+    background-color: #fff;
+}
+
+
+.website2-text{
+    margin-top: 40%;
+
+
+}
+.bis{
+    margin-top: 60%;
+}
+.drawing{
+    width: 85%;
+    border-radius: 20%;
+    border: solid e4c8b0;
+}
+#picture-part{
+    margin-left: 10;
+    padding: 20px;
+}
+#contact{
+    background-color: #e4c8b0;
+   
+}
+
+.bi-facebook{
+    margin-left: 0;
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+.get{
+    margin-left: 30px;
+}
+.info{
+    font-size: 2.5cqw;
+}
+.year{
+    position: absolute;
+    right: 0;
+    
+}
+.right-text{
+    flex: none;
+}
+.text-box{
+    position: relative;
+}
+p{
+    font-size: 1.5cqw;
+}
+
+
+
+
+
+
+
+
+
+
+
